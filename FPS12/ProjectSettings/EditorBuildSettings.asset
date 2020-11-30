@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/IntroMenu.unity
+    guid: 56e3faabc5bb30f49a68bb8f1292f988
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/LoseScene.unity
+    guid: 72e5c65a45893714484002914e3fd521
+  - enabled: 0
+    path: Assets/FPS/Scenes/MainScene.unity
+    guid: d794a2ef8ba31d847ad3c19d03e2ddb9
+  - enabled: 1
+    path: Assets/Scene/MainScene 1.unity
+    guid: bef28211d1acf3449b4fe9a32d3b43ac
+  - enabled: 1
+    path: Assets/Scene/LoseScene 4.unity
+    guid: daf33ecdf5638c64d847b13859a63ba8
+  - enabled: 1
+    path: Assets/Scene/LoseScene 3.unity
+    guid: 3abad51b02804f24ea5e87fb16c79138
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/LoseScene 2.unity
+    guid: 3ce4b9b209eabdd42823d06a2f1a875d
+  - enabled: 1
+    path: Assets/Scene/LoseScene 1.unity
+    guid: 618afbea4aefe9e43b2c4c7df7360d9b
+  - enabled: 1
+    path: Assets/Scene/Cutscene1.unity
+    guid: 301c0fa675d9b0e4dac9588e8d742783
+  - enabled: 1
+    path: Assets/Scene/Cutscene2.unity
+    guid: 9e324b9f8996eae42a8b9bd56969978d
+  - enabled: 1
+    path: Assets/Scene/Levels.unity
+    guid: 31b972d116334904886e0a05dcc6df26
+  - enabled: 1
+    path: Assets/Scene/MainScene 2.unity
+    guid: fe6ca733013fd754e936603df2cf5e16
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/MainScene 4.unity
+    guid: fee13c6308e8e1d42a6c0467308ec21e
+  - enabled: 1
+    path: Assets/Scene/Cutscene3.unity
+    guid: f858de57eefdd9848ac6e64cd3a37546
+  - enabled: 1
+    path: Assets/Scene/MainScene 3.unity
+    guid: 043afe9c9cac45f49b0be3b4595c3202
+  - enabled: 1
+    path: Assets/Scene/Cutscene4.unity
+    guid: fb612e1b5c470cd4a9db02bc55f53be1
+  - enabled: 1
+    path: Assets/Scene/Win.unity
+    guid: 48adc3b1d0254584cb514c570a4f1b67
+  - enabled: 1
+    path: Assets/Scene/LoseScene 5.unity
+    guid: bc18c8b21acd48b478be7f30b2fab756
+  - enabled: 1
+    path: Assets/Scene/Cutscene5.unity
+    guid: a79a0ff3cbdd28e43a73b94d421181d6
+  - enabled: 1
+    path: Assets/Scene/Main Five.unity
+    guid: 3aa24cca19d3a7f43a48930f640ff8ae
+  m_configObjects: {}
